@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there! 👋
+I'm Mario, a Biomedical Engineer with interested and focused in data management. Currently, studying a postgraduate degree in Data Science and Analytics and I have worked with cloud platforms such as GCP and AWS; my strongest programming language is Python. I'm eager to expand my knowledge and dive more into this technological field!💻
+
+🔭 I’m open to new job oportunities!
+🌱 I’m currently learning about ML and Cloud
+👯 I’m looking to collaborate on Data Science projects
+📫 How to reach me: mariotriana38@gmail.com
 
 <!--
 **mariotriana/mariotriana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
